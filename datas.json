@@ -1,6 +1,22 @@
 {
   "contact": "Nordics Discord",
   "templates": [
+	{
+      "name": "hello there test",
+      "sources": [
+        "https://i.imgur.com/26ZoOvF.png"
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "r/nordics sign",
+      "sources": [
+        "https://i.imgur.com/5s8FLDX.png"
+      ],
+      "x": 474,
+      "y": 133
+    },
     {
       "name": "coat of arms",
       "sources": [
